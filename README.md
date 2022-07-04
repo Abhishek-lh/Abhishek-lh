@@ -2,7 +2,6 @@
 - 👀 I’m interested in Python, Web Applications, ML, AI
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ML/AI
-- 📫 How to reach me abhishekbeuc@gmail.com
 
 <!---
 Abhishek-lh/Abhishek-lh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
